@@ -1,0 +1,1 @@
+console.log("Welcome to the JS Email and PIN Code Validation Program") 
